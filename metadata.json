@@ -1,0 +1,5 @@
+{
+  "name": "Password Strength & Compromise Checker",
+  "description": "An advanced password security analyzer that checks for strength, common patterns, and potential compromise risk using the Gemini API.",
+  "requestFramePermissions": []
+}
